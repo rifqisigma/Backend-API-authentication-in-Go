@@ -1,6 +1,6 @@
-# OAuth Authentication with Google & GitHub in Go
+# OAuth Authentication with Google Provider in Go
 
-This project provides OAuth authentication using **Google** and **GitHub**, storing user data in **MySQL** with **GORM**, and generating JWT tokens for user authentication.
+This project provides OAuth authentication using **Google** , storing user data in **MySQL** with **GORM**, and generating JWT tokens for user authentication.
 
 ## Features
 
@@ -17,7 +17,7 @@ This project provides OAuth authentication using **Google** and **GitHub**, stor
 - **Go (Golang)**
 - **Gorilla Mux** (Router)
 - **GORM** (ORM for MySQL)
-- **OAuth2** (Google & GitHub)
+- **OAuth2** (Google)
 - **JWT** (JSON Web Token for authentication)
 - **MySQL** (Database)
 
